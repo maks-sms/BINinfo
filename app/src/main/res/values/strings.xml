@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BIN info</string>
+    <string name="back_to_main_screen">Назад на главный экран</string>
+    <string name="bin">BIN</string>
+    <string name="brand">Бренд: %1$s</string>
+    <string name="card_info_display">Информация о карте будет отображена здесь</string>
+    <string name="currency">Валюта: %1$s</string>
+    <string name="enter_bin">Введите BIN</string>
+    <string name="error">Произошла ошибка!</string>
+    <string name="go_to_history">Перейти к истории</string>
+    <string name="history_of_bin_requests">История запросов BIN</string>
+    <string name="no_history_found">История не найдена</string>
+    <string name="scheme">Схема: %1$s</string>
+    <string name="submit">Отправить</string>
+    <string name="type">Тип: %1$s</string>
+    <string name="bank">Банк: %1$s</string>
+    <string name="country_main">Страна: %1$s (%2$s)</string>
+    <string name="country_history">Страна: %1$s</string>
+    <string name="bin_history">BIN: %1$s</string>
+</resources>
